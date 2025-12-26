@@ -1,6 +1,3 @@
-# Diet-Api-Python
-O que este projeto demonstra:  Design de API REST;  Arquitetura de backend;  Separação de responsabilidades;  Modelagem de dados;  Código Python limpo e legível.
-
 # Diet API – Python Backend Project
 
 REST API developed in Python for managing meals and dietary information.
@@ -28,5 +25,4 @@ This project focuses on backend fundamentals such as API design, separation of c
 ---
 
 ## Project Structure
-
 
